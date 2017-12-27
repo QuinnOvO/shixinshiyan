@@ -153,6 +153,6 @@
 
 /postinstructions = (endinstruction)
 
-/ blocks = [1=blackdot]
+/ blocks = [1=storyblk]
 
 </expt>
